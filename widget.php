@@ -21,4 +21,4 @@ if($_POST) {
         </form>
         <?php include "comments.html"; ?>
     </body>
-</html>?
+</html>
